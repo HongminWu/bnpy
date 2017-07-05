@@ -1,4 +1,5 @@
 ## **bnpy** : Bayesian nonparametric machine learning for python.
+original source:http://www.michaelchughes.com
 
 * [About](#about)
 * [Project Website (Read the Docs)](https://bnpy.readthedocs.io/en/latest/)

@@ -511,9 +511,9 @@ def _parseInput_SoftEv(logSoftEv, K):
     return logSoftEv
 
 
-def runViterbiAlg(logSoftEv, logPi0, logPi):
+def runViterbiAlg(logSoftEv, logPi0, logPi): 
     ''' Run viterbi algorithm to estimate MAP states for single sequence.
-
+# HongminWu
     Args
     ------
     logSoftEv : 2D array, T x K
